@@ -1,0 +1,18 @@
+[
+    {
+        "icon": "fa-regular fa-comment",
+        "type": "replies"
+    },
+    {
+        "icon": "fa-solid fa-retweet",
+        "type": "retuits"
+    },
+    {
+        "icon": "fa-regular fa-heart",
+        "type": "likes"
+    },
+    {
+        "icon": "fa-solid fa-share",
+        "type": ""
+    }
+]
